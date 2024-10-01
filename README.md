@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jeidev.io/](https://jeidev.io/)
 
-- 📫 How to reach me **jic-dev@outlook.com**
+- 📫 How to reach me **contacto@jeidev.io**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jei-dev/](https://www.linkedin.com/in/jei-dev/)
 
