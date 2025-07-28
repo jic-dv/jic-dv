@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://jeidev.io/](https://jeidev.io/)
+- 👨‍💻 All of my projects are available at [https://jic-dv.com/](https://jeidev.io/)
 
 - 📫 How to reach me **contacto@jeidev.io**
 
