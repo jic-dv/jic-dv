@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact@jicdv.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jei-dev/](https://www.linkedin.com/in/jei-dev/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jic-dv/](https://www.linkedin.com/in/jei-dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
